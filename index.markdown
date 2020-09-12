@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+<h1>Hello</h1>
+
+
+<!-- spacing creates a code sample -->
+    <body>
+        <p>A code example</p>
+    </body>
